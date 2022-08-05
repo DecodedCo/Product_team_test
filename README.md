@@ -2,4 +2,3 @@
 
 The product team is the best!
 
-Sophie is the best!
