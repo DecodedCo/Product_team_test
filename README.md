@@ -2,6 +2,4 @@
 
 Mark Stent was here....BOOM!!!
 
-Helloooo :)
-
-Adding stuff
+This is MY readme file.
